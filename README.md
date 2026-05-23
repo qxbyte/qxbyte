@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f6e0.svg" width="22" height="22"/> About me
+### About me
 
 - 目前位置：上海 / 中国
 - 在学习：Agent
