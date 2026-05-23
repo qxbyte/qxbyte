@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hi, I'm Xue Qiang 👋
 
@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-xueqiang361@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xueqiang361@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=qxbyte&style=flat-square&color=6B5BFF)](https://github.com/qxbyte)
 
-*Backend / 全栈工程师 *
 
 </div>
 
