@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-xueqiang361@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xueqiang361@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=qxbyte&style=flat-square&color=6B5BFF)](https://github.com/qxbyte)
 
-*Backend / 全栈工程师 · 写代码也喜欢做点像素风的小东西*
+*Backend / 全栈工程师 *
 
 </div>
 
@@ -14,8 +14,7 @@
 
 ### 🛠 About me
 
-<!-- 改成你真实的情况 —— 这是占位 -->
-- 🔭 目前在做：后端服务 / 全栈小项目
+- 🔭 目前位置：上海 / 中国
 - 🌱 在学习：Agent / LLM 应用 
 - 📫 联系：**qiang_xue0@outlook.com**
 
