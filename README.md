@@ -29,17 +29,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![qxbyte's stats](https://github-readme-stats.vercel.app/api?username=qxbyte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![qxbyte's streak](https://github-readme-streak-stats.herokuapp.com?user=qxbyte&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxbyte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
 ---
 
 <div align="center">
