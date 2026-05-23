@@ -16,9 +16,3 @@
 - 在学习：Agent
 
 ---
-
-<div align="center">
-
-*✨ "More time for the code you want to write, and everything else." ✨*
-
-</div>
